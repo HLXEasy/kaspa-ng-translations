@@ -1,4 +1,5 @@
 {
+  "'Phishing hint' is a secret word or a phrase that is displayed when you open your wallet. If you do not see the hint when opening your wallet, you may be accessing a fake wallet designed to steal your funds. If this occurs, stop using the wallet immediately, check the browser URL domain name and seek help on social networks (Kaspa Discord or Telegram).": "'Phishing hint' is a secret word or a phrase that is displayed when you open your wallet. If you do not see the hint when opening your wallet, you may be accessing a fake wallet designed to steal your funds. If this occurs, stop using the wallet immediately, check the browser URL domain name and seek help on social networks (Kaspa Discord or Telegram).",
   "1 BPS test network": "Δίκτυο δοκιμών 1 BPS",
   "10 BPS test network": "Δίκτυο δοκιμών 10 BPS",
   "12 word mnemonic": "Μνημονικό 12 λέξεων",
@@ -387,6 +388,7 @@
   "p2p Tx/s": "ομότιμα - p2p Tx/δ",
   "peer": "ομότιμο",
   "peers": "ομότιμα",
+  "secp256k1 keypair": "secp256k1 keypair",
   "using KDX or kaspanet.io web wallet": "using KDX or kaspanet.io web wallet",
   "wRPC Borsh Rx": "wRPC Borsh Rx",
   "wRPC Borsh Rx/s": "wRPC Borsh Rx/δ",
